@@ -1,0 +1,29 @@
+.title{
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: 900;
+    font-size: 80px;
+    padding: 50px;
+}
+
+.instruction{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 400;
+    font-size: 35px;
+    padding: 20px;
+}
+
+.my-btn button{ 
+    padding: 20px 50px;
+    
+}
+
+.my-btn button:hover{
+    background-color: #008000;
+}
+#quotes , #authors {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 35px;
+}
+
